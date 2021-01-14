@@ -1,0 +1,33 @@
+Extention types to identify python files
+.py
+.pyc
+
+hello.py
+hello.pyc
+hello
+
+Types   
+    dynamic typed language
+    * fundamental(basic) types
+        1) int
+            * PEMDAS
+            * Example 1, 2, 3, 5, 6
+        2) float
+            * Example 1.0, 1.1, 1.1111, 2.0, 2,909, 4.000
+            * operations: division
+            * type casting : implicit and explicit (float function)
+        3) chr
+            65 - 90 'A' - 'Z' 1000001
+            97 - 122 'a' - 'z'
+            Ascii chart : uses 256 chars 0 - 255
+            or Unicode chart 8, 16, 32 : 2^16
+
+        4) str
+            '-#abcdefgrtgg','a', "ssdd", '', "", " "
+            [][][][][][][] 
+             1 2 3 4 5 6 7
+             0 1 2 3 4 5 6
+
+    variables vs variable name vs value vs address(reference)
+        lvalues and rvalues
+        = means assign what is on the right to what is on the left

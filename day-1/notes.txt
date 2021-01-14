@@ -1,0 +1,86 @@
+choosing a language.
+1) project
+2) adaptability
+3) community/customer support
+
+
+concepts and keywords
+- arrays
+- types
+- no libray support
+- Method
+- Stack Overflow
+
+
+Example of such language (MId-low level languags)
+assembly
+c 
+fortran
+
+Matlab
+julia
+R
+
+High level language
+python
+ruby
+swift
+javascript
+c++
+java
+
+customer support:
+    dart vs java -
+    kotlin vs java
+    c vs swift(ios)
+    javascript vs c++
+
+
+Programming ->
+giving a set of instructions to a computer
+
+a computer is an arithmetic machine. addition and subtration (copy and paste and delete)
+
+Machine code (010001010101)
+assembly (short hand for machine code) (010001010101) COPY x86 assembly
+low level language (more robust human readable format) ada, fortran
+High level (a lot of abstractions) C(99) c++ c11, java, js, ruby etc
+
+interpreted languages vs compiled languages
+Runtime errors -->
+compile time errors -->
+
+syntax errors
+logical errors
+
+python is an interpreted language
+Cython
+Jthon
+python is written in c
+
+
+Programming has two parts.
+1) coding in a language (syntax, semantics) ------> easy to learn.
+
+2) problem solving (computational thinking) ------> very hard but very doable.
+    DSA (data structures and algorithms) -> templates (Linked List(ArrayList), Stacks, Queues, Trees, Tries, Heaps, Hash Tables, Bags, Graphs)
+    Mathematics
+    Domain Knowledge
+    creative thinking
+    puzzle solving etc... (Red black tree)
+
+
+
+PYTHON
+Types : int, float, str, chr
+
+higher order types: sets, dictionaries, lists, tuples
+
+Mutable and Immutable types
+
+int: 0, 1,2 ,-1, -3, 4, 8 ,9, 1000
+memory to store values: memory is finite
+values are stored with binary (0, 1)
+int: 32 bit values -> max 2^31 - 1 min -2^31
+00000000000000000000......
+2^32
