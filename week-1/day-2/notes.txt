@@ -21,6 +21,7 @@ Types
             97 - 122 'a' - 'z'
             Ascii chart : uses 256 chars 0 - 255
             or Unicode chart 8, 16, 32 : 2^16
+            ord() vs chr()
 
         4) str
             '-#abcdefgrtgg','a', "ssdd", '', "", " "

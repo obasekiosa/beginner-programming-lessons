@@ -1,0 +1,12 @@
+
+
+to get the length of a string use len(s) where s is the string
+every type has a set of operations you can perform on them.
+
+  # meaning to ignore that line
+
+
+type bools : False or True aka 0 and 1
+
+LOOPS:
+    for vs while loop
