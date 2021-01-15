@@ -7,6 +7,7 @@ every type has a set of operations you can perform on them.
 
 
 type bools : False or True aka 0 and 1
+type None:
 
 LOOPS:
     for vs while loop
