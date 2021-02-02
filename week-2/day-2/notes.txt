@@ -1,0 +1,48 @@
+examples of python reserved keywords:
+    in
+    for
+    and
+    or
+    with
+    while
+
+
+Transpile <-- add to assignment.
+
+
+variables
+local
+global
+static
+
+
+types of loops
+    for loops
+    while loops
+
+
+    for loops goes through every element of an iterable.
+    every object you know
+
+
+
+
+    ASSIGNMENT
+
+    #########
+    #########
+    #########
+    #########
+    #########
+
+
+      #
+     ##
+    ###
+   ####
+  #####
+
+
+escape characters
+
+ \
